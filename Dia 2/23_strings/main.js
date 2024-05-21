@@ -1,0 +1,5 @@
+console.log("Primeira linha \nSegunda linha")
+console.log("O meu nome é 'Maria'")
+console.log('O meu nome é "Laura"')
+console.log(`A soma de 2 + 2 é ${2+2}`)
+console.log('A soma de 2 + 2 é: ' + '4')
